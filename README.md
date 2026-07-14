@@ -37,29 +37,16 @@ SNN_Art/
 ├── Graficas/
 │   ├── CNN/
 │   │   ├── accuracy_epoch.png
-│   │   ├── test_accuracy_batch.png
-│   │   ├── test_loss_batch.png
 │   │   ├── test_loss_epoch.png
-│   │   ├── train_loss_batch.png
-│   │   ├── train_loss_epoch.png
-│   │   └── train_vs_test_loss.png
+│   │   └── train_loss_epoch.png
 │   ├── CNN+SNN/
 │   │   ├── accuracy_epoch.png
-│   │   ├── cnnsnn_train_vs_test_loss.png
-│   │   ├── test_accuracy_batch.png
-│   │   ├── test_loss_batch.png
 │   │   ├── test_loss_epoch.png
-│   │   ├── train_loss_batch.png
-│   │   ├── train_loss_epoch.png
-│   │   └── train_vs_test_loss.png
+│   │   └── train_loss_epoch.png
 │   └── SNN/
 │       ├── accuracy_epoch.png
-│       ├── test_accuracy_batch.png
-│       ├── test_loss_batch.png
 │       ├── test_loss_epoch.png
-│       ├── train_loss_batch.png
-│       ├── train_loss_epoch.png
-│       └── train_vs_test_loss.png
+│       └── train_loss_epoch.png
 ├── Modelos/
 │   ├── Modelo_SNN_Puro.ipynb
 │   ├── notebookCNN.ipynb
