@@ -1,6 +1,7 @@
 # SNN-Art
 
 Localización del training y test set: https://drive.google.com/drive/folders/1TpxvFHPC9QXfQ2KHptS8luUqdUe5VKsI?usp=sharing
+
 Los datos originales provienen de https://www.kaggle.com/datasets/ravidussilva/real-ai-art/data pero hemos modificado la
 estructuración de las carpetas para que sea compatible con el código de los modelos de este proyecto.
 
